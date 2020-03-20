@@ -1,0 +1,102 @@
+{
+  "africa": [
+    {
+      "firstname": "กาแฟ เยเมน ",
+      "lastname" : "(YEMEN COFFEE)",
+      "image": "https://png.pngtree.com/png-clipart/20190515/original/pngtree-cartoon-coffee-cup-coffee-cup-coffee-styling-png-image_3822896.jpg",
+      "position": "ถ้าคุณพูดถึงกาแฟรสเข้มที่ให้รสช็อคโกแลตที่ชัดเจน ผสมกับรสชาติที่ซับซ้อนของไวน์ ใบยาสูบ และกลิ่นดิน และมีบอดี้ที่เข้มข้นเหนือกาแฟอาราบิกาจากแหล่งอื่นๆ คุณกำลังพูดถึงกาแฟในตำนานอย่าง มอคค่า เยเมน (Mocca Yemen) ที่ชื่อว่ามอคค่า ก็เพราะเป็นกาแฟที่ปลูกและส่งมาจากเมืองมอคค่าอันเป็นต้นกำเนิดของมอคค่า (กาแฟผสมช็อคโกแลต) ในประเทศเยเมน ที่แพร่กระจายไปทั่วโลกนั่นเอง"
+    },
+    {
+      "firstname": "เอธิโอเปีย",
+      "lastname" : "(Ethiopia)",
+      "image": "https://png.pngtree.com/png-clipart/20190515/original/pngtree-cartoon-coffee-cup-coffee-cup-coffee-styling-png-image_3822896.jpg",
+      "position": "กาแฟอาราบิก้าเกิดขึ้นครั้งแรกที่จังหวัด Kaffa ที่มีลักษณะเป็นที่ราบสูงทางตะวันตกเฉียงใต้ของประเทศเอธิโอเปีย ในจารึกประวัติศาสตร์เรียกพื้นที่แถบนั้นว่า Abyssinia เป็นจักรวรรดิที่เคยรุ่งเรืองเมื่อร้อยกว่าปีก่อนและกินพื้นที่ประเทศเอธิโอเปียในปัจจุบัน นอกจากจะค้นพบกาแฟแล้ว ที่นั่นยังเป็นแห่งแรกที่มีการเพาะปลูกกาแฟอย่างเป็นทางการ รวมทั้งเป็นจุดเริ่มต้นของการทำกาแฟให้เป็นเครื่องดื่มด้วย"
+    },
+    {
+      "firstname": "แทนซาเนีย ",
+      "lastname" : "(Tanzania)",
+      "image": "https://png.pngtree.com/png-clipart/20190515/original/pngtree-cartoon-coffee-cup-coffee-cup-coffee-styling-png-image_3822896.jpg",
+      "position": "กาแฟชั้นดีจากเทือกเขาสูงคีรีมันจาโร ประเทศแทนซาเนียทวีปแอฟริกา (Tanzania Kilimanjaro) เกรด AA เป็นหนึ่งในกาแฟอันดับต้นๆ กาแฟสายผลไม้ป่า รสชาติ fruity เปรี้ยว/หวาน ชุ่มคอ สดชื่นเป็นเอกลักษณ์ของดินแดนแห่งภูเขา "
+    },
+    {
+      "firstname": "ยูกันดา ",
+      "lastname" : "(Uganda)",
+      "image": "https://png.pngtree.com/png-clipart/20190515/original/pngtree-cartoon-coffee-cup-coffee-cup-coffee-styling-png-image_3822896.jpg",
+      "position": "ยูกันดา โรบัสต้าเป็นกาแฟที่มีคาเฟอีนเและได้ขึ้นชื่อเกี่ยวกับ เป็นเครื่องที่ให้พลังงานสูง “ด้วยการคั่วแบบอ่อนจะทำให้เมล็ดกาแฟนี้จะส่งผลให้มีความผสมผสาน กลิ่นหอมและรสชาติที่ดีซึ่งมีรสชาติคล้ายน้ำนมข้าว "
+    }
+  ],
+  "south america": [
+    {
+      "firstname": "อาราบิก้า",
+      "lastname" : "(Arabica)",
+      "image": "https://img1.thaipng.com/20180310/rke/kisspng-coffee-cafe-cartoon-drawing-cartoon-painted-coffee-5aa4058b9b0684.418752221520698763635.jpg",
+      "position": "เอกลักษณ์ของกลิ่นที่หอมอย่างพอดี พร้อมกับรสชาติที่ออกไปทางกลมกล่อมนุ่มนวล อีกทั้งยังมีปริมาณของคาเฟอีนที่ต่ำมากไม่ถึง 2% นี่เอง ที่ส่งผลให้สายพันธุ์กาแฟอราบิก้าเป็นที่นิยมและขายได้มากที่สุดในโลก เฉลี่ยถึง 80% กันเลยทีเดียว"
+     },
+    {
+      "firstname": "มาลิค Acid",
+      "lastname" : "(Malic Acid)",
+      "image": "https://img1.thaipng.com/20180310/rke/kisspng-coffee-cafe-cartoon-drawing-cartoon-painted-coffee-5aa4058b9b0684.418752221520698763635.jpg",
+      "position": "Acidity คือกรดที่มีอยู่ในกาแฟ โดยส่งผลต่อรสชาติของกาแฟ ทำให้กาแฟมีความเปรี้ยว มักจะโดดเด่นในกาแฟแบบ Single Origin Malic Acid พบมากในแอปเปิ้ลเขียว จึงเรียกว่า กรดแอปเปิ้ล ส่วนใหญ่พบในกาแฟจาก Africa "
+    }  ,
+    {
+      "firstname": "โบลิเวีย",
+      "lastname" : "(BOLIVIA)",
+      "image": "https://th.pngtree.com/freepng/cartoon-steaming-coffee_4188093.html",
+      "position": "Acidity คือกรดที่มีอยู่ในกาแฟ โดยส่งผลต่อรสชาติของกาแฟ ทำให้กาแฟมีความเปรี้ยว มักจะโดดเด่นในกาแฟแบบ Single Origin Malic Acid พบมากในแอปเปิ้ลเขียว จึงเรียกว่า กรดแอปเปิ้ล ส่วนใหญ่พบในกาแฟจาก Africa "
+    }
+  ],
+  "central america": [
+    {
+      "firstname": "กัวเตมาลา",
+      "lastname" : "(guatemala)",
+      "image": "https://png.pngtree.com/png-clipart/20190515/original/pngtree-cartoon-coffee-cup-coffee-cup-coffee-styling-png-image_3822896.jpg",
+      "position": "กลิ่นรสที่ดีมากและที่สำคัญเวลาเราดูที่กระสอบกาแฟจะมีรอยพิมพ์บนกระสอบแทบจะทุกกระสอบว่า The Clean Coffee "
+    },
+    {
+      "firstname": "เอลซัลวาดอร์ ",
+      "lastname" : "(el-salvador)",
+      "image": "https://png.pngtree.com/png-clipart/20190515/original/pngtree-cartoon-coffee-cup-coffee-cup-coffee-styling-png-image_3822896.jpg",
+      "position": "นุ่มนวล (Smooth) มากขึ้น มีความ Bright Tone"
+    },
+    {
+      "firstname": "ปานามา",
+      "lastname" : "(PANAMA)",
+      "image": " https://png.pngtree.com/png-clipart/20190515/original/pngtree-cartoon-coffee-cup-coffee-cup-coffee-styling-png-image_3822896.jpg",
+      "position": "มีบอดี้เบา ละมุน และซับซ้อน"
+    }
+  ],
+  "asia": [
+    {
+      "firstname": "อินเดีย",
+      "lastname" : "(INDIA)",
+      "image": "https://img1.thaipng.com/20180213/luw/kisspng-coffee-cup-tea-cafe-mug-cartoon-mug-5a83427e713274.8441896615185516784637.jpg",
+      "position": "กาแฟที่ดีที่สุดจากอินเดีย มักมีบอดี้หนัก ครีมมี่ และมีความเปรี้ยวน้อยแต่จะไม่ค่อยมีความซับซ้อน"
+    },
+    {
+      "firstname": "เวียดนาม",
+      "lastname" : "(VIETNAM)",
+      "image": "https://img1.thaipng.com/20180213/luw/kisspng-coffee-cup-tea-cafe-mug-cartoon-mug-5a83427e713274.8441896615185516784637.jpg",
+      "position": "มีกลิ่นไม้และขาดความหวานหรือคุณและลักษณะเด่น"
+    },
+    {
+      "firstname": "อินโดนีเซีย",
+      "lastname" : "(INDONESIA)",
+      "image": "https://img1.thaipng.com/20180213/luw/kisspng-coffee-cup-tea-cafe-mug-cartoon-mug-5a83427e713274.8441896615185516784637.jpg",
+      "position": "เป็นกาแฟที่แพงและโดเด่นทั่วโลก ราคาสูง"
+    }
+  ],
+  "oceania": [
+    {
+      "firstname": "ออสเตรเลีย",
+      "lastname" : "(Australia)",
+      "image": "https://png.pngtree.com/png-clipart/20190618/original/pngtree-hand-painted-cartoon-coffee-food-png-image_3955042.jpg",
+      "position": "การคั่วกาแฟและมิกซ์กาแฟมากกว่า ทำให้ได้รสชาติที่ดีและมีเอกลักษณ์เป็นของตัวเอง"
+    },
+    {
+      "firstname": "ฮาวาย",
+      "lastname" : "(HAWAII)",
+      "image": "https://png.pngtree.com/png-clipart/20190618/original/pngtree-hand-painted-cartoon-coffee-food-png-image_3955042.jpg",
+      "position": "มีความเปรี้ยวน้อยและมีบอดี้พอสมควร ดื่มง่ายแต่มักจจะไม่ค่อยมีความซับซ้อนหรือรสผลไม้"
+    }
+  ]
+}
